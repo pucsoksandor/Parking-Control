@@ -1,0 +1,18 @@
+<configuration>
+
+    <input>
+	
+        <net-file value="parking.net.xml"/>
+		<additional-files value="parking.add.xml"/>
+		<route-files value="random_route.rou.xml"/>
+		
+		
+    </input>
+	
+	<gui_only>
+        <gui-settings-file value="osm.view.xml"/>
+	</gui_only>
+	
+</configuration>
+
+

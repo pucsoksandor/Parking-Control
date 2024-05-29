@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-04 22:25:30 by Eclipse SUMO duarouter Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/duarouterConfiguration.xsd">
+
+    <input>
+        <net-file value="parking.net.xml"/>
+        <route-files value="trips.trips.xml"/>
+    </input>
+
+    <output>
+        <output-file value="trips.trips.xml.tmp"/>
+        <write-trips value="true"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="200"/>
+    </time>
+
+    <report>
+        <no-warnings value="true"/>
+        <ignore-errors value="true"/>
+        <no-step-log value="true"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="passenger" vClass="passenger"/>
+    <trip id="0" type="passenger" depart="0.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="1" type="passenger" depart="1.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="2" type="passenger" depart="2.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="3" type="passenger" depart="3.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="4" type="passenger" depart="4.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="5" type="passenger" depart="5.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="6" type="passenger" depart="6.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="7" type="passenger" depart="7.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="8" type="passenger" depart="8.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="9" type="passenger" depart="9.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="10" type="passenger" depart="10.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="11" type="passenger" depart="11.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="12" type="passenger" depart="12.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="13" type="passenger" depart="13.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="14" type="passenger" depart="14.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="15" type="passenger" depart="15.00" from="start_right" to="boulevard_1_left"/>
+    <trip id="16" type="passenger" depart="16.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="17" type="passenger" depart="17.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="18" type="passenger" depart="18.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="19" type="passenger" depart="19.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="20" type="passenger" depart="20.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="21" type="passenger" depart="21.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="22" type="passenger" depart="22.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="23" type="passenger" depart="23.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="26" type="passenger" depart="26.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="27" type="passenger" depart="27.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="28" type="passenger" depart="28.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="29" type="passenger" depart="29.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="30" type="passenger" depart="30.00" from="boulevard_3_left" to="boulevard_5_right"/>
+    <trip id="31" type="passenger" depart="31.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="33" type="passenger" depart="33.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="34" type="passenger" depart="34.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="35" type="passenger" depart="35.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="36" type="passenger" depart="36.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="37" type="passenger" depart="37.00" from="start_right" to="boulevard_1_left"/>
+    <trip id="38" type="passenger" depart="38.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="39" type="passenger" depart="39.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="40" type="passenger" depart="40.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="42" type="passenger" depart="42.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="43" type="passenger" depart="43.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="44" type="passenger" depart="44.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="45" type="passenger" depart="45.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="46" type="passenger" depart="46.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="47" type="passenger" depart="47.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="48" type="passenger" depart="48.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="50" type="passenger" depart="50.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="51" type="passenger" depart="51.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="52" type="passenger" depart="52.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="53" type="passenger" depart="53.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="55" type="passenger" depart="55.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="56" type="passenger" depart="56.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="57" type="passenger" depart="57.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="58" type="passenger" depart="58.00" from="boulevard_3_left" to="boulevard_5_right"/>
+    <trip id="59" type="passenger" depart="59.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="60" type="passenger" depart="60.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="61" type="passenger" depart="61.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="62" type="passenger" depart="62.00" from="start_right" to="boulevard_1_left"/>
+    <trip id="63" type="passenger" depart="63.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="64" type="passenger" depart="64.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="65" type="passenger" depart="65.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="66" type="passenger" depart="66.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="67" type="passenger" depart="67.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="68" type="passenger" depart="68.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="69" type="passenger" depart="69.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="70" type="passenger" depart="70.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="71" type="passenger" depart="71.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="72" type="passenger" depart="72.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="73" type="passenger" depart="73.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="74" type="passenger" depart="74.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="75" type="passenger" depart="75.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="76" type="passenger" depart="76.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="77" type="passenger" depart="77.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="78" type="passenger" depart="78.00" from="boulevard_3_left" to="boulevard_5_right"/>
+    <trip id="80" type="passenger" depart="80.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="81" type="passenger" depart="81.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="82" type="passenger" depart="82.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="83" type="passenger" depart="83.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="84" type="passenger" depart="84.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="85" type="passenger" depart="85.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="86" type="passenger" depart="86.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="87" type="passenger" depart="87.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="88" type="passenger" depart="88.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="89" type="passenger" depart="89.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="90" type="passenger" depart="90.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="91" type="passenger" depart="91.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="92" type="passenger" depart="92.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="93" type="passenger" depart="93.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="94" type="passenger" depart="94.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="95" type="passenger" depart="95.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="96" type="passenger" depart="96.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="97" type="passenger" depart="97.00" from="boulevard_3_left" to="boulevard_5_right"/>
+    <trip id="98" type="passenger" depart="98.00" from="start_right" to="boulevard_1_left"/>
+    <trip id="99" type="passenger" depart="99.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="100" type="passenger" depart="100.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="101" type="passenger" depart="101.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="102" type="passenger" depart="102.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="103" type="passenger" depart="103.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="104" type="passenger" depart="104.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="105" type="passenger" depart="105.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="106" type="passenger" depart="106.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="107" type="passenger" depart="107.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="108" type="passenger" depart="108.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="109" type="passenger" depart="109.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="110" type="passenger" depart="110.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="111" type="passenger" depart="111.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="113" type="passenger" depart="113.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="115" type="passenger" depart="115.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="116" type="passenger" depart="116.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="117" type="passenger" depart="117.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="118" type="passenger" depart="118.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="119" type="passenger" depart="119.00" from="boulevard_3_left" to="boulevard_5_right"/>
+    <trip id="120" type="passenger" depart="120.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="121" type="passenger" depart="121.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="122" type="passenger" depart="122.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="123" type="passenger" depart="123.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="124" type="passenger" depart="124.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="125" type="passenger" depart="125.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="126" type="passenger" depart="126.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="127" type="passenger" depart="127.00" from="start_right" to="boulevard_1_left"/>
+    <trip id="128" type="passenger" depart="128.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="129" type="passenger" depart="129.00" from="boulevard_3_left" to="boulevard_5_right"/>
+    <trip id="130" type="passenger" depart="130.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="131" type="passenger" depart="131.00" from="boulevard_3_left" to="boulevard_5_right"/>
+    <trip id="132" type="passenger" depart="132.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="134" type="passenger" depart="134.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="135" type="passenger" depart="135.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="136" type="passenger" depart="136.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="137" type="passenger" depart="137.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="138" type="passenger" depart="138.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="139" type="passenger" depart="139.00" from="boulevard_3_left" to="boulevard_5_right"/>
+    <trip id="140" type="passenger" depart="140.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="141" type="passenger" depart="141.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="142" type="passenger" depart="142.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="143" type="passenger" depart="143.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="144" type="passenger" depart="144.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="145" type="passenger" depart="145.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="146" type="passenger" depart="146.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="147" type="passenger" depart="147.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="148" type="passenger" depart="148.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="149" type="passenger" depart="149.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="150" type="passenger" depart="150.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="151" type="passenger" depart="151.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="152" type="passenger" depart="152.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="153" type="passenger" depart="153.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="154" type="passenger" depart="154.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="155" type="passenger" depart="155.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="156" type="passenger" depart="156.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="157" type="passenger" depart="157.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="158" type="passenger" depart="158.00" from="start_right" to="boulevard_1_left"/>
+    <trip id="159" type="passenger" depart="159.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="160" type="passenger" depart="160.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="161" type="passenger" depart="161.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="162" type="passenger" depart="162.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="163" type="passenger" depart="163.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="164" type="passenger" depart="164.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="165" type="passenger" depart="165.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="166" type="passenger" depart="166.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="167" type="passenger" depart="167.00" from="via_giuseppe_mazzini_left" to="boulevard_6_left"/>
+    <trip id="168" type="passenger" depart="168.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="169" type="passenger" depart="169.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="170" type="passenger" depart="170.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="171" type="passenger" depart="171.00" from="boulevard_3_left" to="boulevard_1_left"/>
+    <trip id="172" type="passenger" depart="172.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="173" type="passenger" depart="173.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="174" type="passenger" depart="174.00" from="start_right" to="boulevard_6_left"/>
+    <trip id="175" type="passenger" depart="175.00" from="start_right" to="boulevard_5_right"/>
+    <trip id="176" type="passenger" depart="176.00" from="boulevard_3_left" to="boulevard_5_right"/>
+    <trip id="177" type="passenger" depart="177.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="178" type="passenger" depart="178.00" from="start_right" to="boulevard_1_left"/>
+    <trip id="179" type="passenger" depart="179.00" from="boulevard_3_left" to="boulevard_5_right"/>
+    <trip id="180" type="passenger" depart="180.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="181" type="passenger" depart="181.00" from="via_giuseppe_mazzini_left" to="boulevard_8_right"/>
+    <trip id="182" type="passenger" depart="182.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="183" type="passenger" depart="183.00" from="boulevard_3_left" to="boulevard_8_right"/>
+    <trip id="184" type="passenger" depart="184.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="185" type="passenger" depart="185.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="186" type="passenger" depart="186.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="187" type="passenger" depart="187.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="188" type="passenger" depart="188.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="189" type="passenger" depart="189.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="190" type="passenger" depart="190.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="191" type="passenger" depart="191.00" from="via_giuseppe_mazzini_left" to="boulevard_5_right"/>
+    <trip id="192" type="passenger" depart="192.00" from="boulevard_3_left" to="boulevard_4_left"/>
+    <trip id="193" type="passenger" depart="193.00" from="start_right" to="boulevard_4_left"/>
+    <trip id="194" type="passenger" depart="194.00" from="boulevard_3_left" to="boulevard_6_left"/>
+    <trip id="195" type="passenger" depart="195.00" from="start_right" to="boulevard_1_left"/>
+    <trip id="196" type="passenger" depart="196.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="197" type="passenger" depart="197.00" from="via_giuseppe_mazzini_left" to="boulevard_1_left"/>
+    <trip id="198" type="passenger" depart="198.00" from="start_right" to="boulevard_8_right"/>
+    <trip id="199" type="passenger" depart="199.00" from="boulevard_3_left" to="boulevard_6_left"/>
+</routes>

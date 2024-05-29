@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-04 18:36:31 by Eclipse SUMO netedit Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/neteditConfiguration.xsd">
+
+    <input>
+        <sumocfg-file value="C:\Users\pucso\Desktop\Traffic_Sim_Project\sumo_config_file.sumocfg"/>
+        <additional-files value="C:\Users\pucso\Desktop\Traffic_Sim_Project\parking.add.xml"/>
+        <route-files value="C:\Users\pucso\Desktop\Traffic_Sim_Project\route.rou.xml"/>
+        <sumo-net-file value="C:\Users\pucso\Desktop\Traffic_Sim_Project\parking.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="C:\Users\pucso\Desktop\Traffic_Sim_Project\parking.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="0"/>
+    </processing>
+
+    <junctions>
+        <no-internal-links value="true"/>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.50"/>
+        <rectangular-lane-cut value="0"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="0"/>
+    </pedestrian>
+
+    <netedit>
+        <ignore.routeelements value="false"/>
+    </netedit>
+
+</configuration>
+-->
+
+<net version="1.16" junctionCornerDetail="5" limitTurnSpeed="5.50" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/net_file.xsd">
+
+    <location netOffset="0.00,0.00" convBoundary="-300.00,0.00,100.00,100.00" origBoundary="-10000000000.00,-10000000000.00,10000000000.00,10000000000.00" projParameter="!"/>
+
+    <edge id="boulevard_1_left" from="J1" to="J0" priority="-1">
+        <lane id="boulevard_1_left_0" index="0" speed="13.89" length="100.00" shape="-107.20,1.60 -192.80,1.60"/>
+    </edge>
+    <edge id="boulevard_1_right" from="J0" to="J1" priority="-1">
+        <lane id="boulevard_1_right_0" index="0" speed="13.89" length="100.00" shape="-192.80,-1.60 -107.20,-1.60"/>
+    </edge>
+    <edge id="boulevard_2_left" from="J2" to="J1" priority="-1">
+        <lane id="boulevard_2_left_0" index="0" speed="13.89" length="100.00" shape="-7.20,1.60 -92.80,1.60"/>
+    </edge>
+    <edge id="boulevard_2_right" from="J1" to="J2" priority="-1">
+        <lane id="boulevard_2_right_0" index="0" speed="13.89" length="100.00" shape="-92.80,-1.60 -7.20,-1.60"/>
+    </edge>
+    <edge id="boulevard_3_left" from="J23" to="J2" priority="-1">
+        <lane id="boulevard_3_left_0" index="0" speed="13.89" length="100.00" shape="96.80,1.60 7.20,1.60"/>
+    </edge>
+    <edge id="boulevard_3_right" from="J2" to="J23" priority="-1">
+        <lane id="boulevard_3_right_0" index="0" speed="13.89" length="100.00" shape="7.20,-1.60 96.80,-1.60"/>
+    </edge>
+    <edge id="boulevard_4_left" from="J24" to="J23" priority="-1">
+        <lane id="boulevard_4_left_0" index="0" speed="13.89" length="100.00" shape="98.40,96.80 98.40,3.20"/>
+    </edge>
+    <edge id="boulevard_4_right" from="J23" to="J24" priority="-1">
+        <lane id="boulevard_4_right_0" index="0" speed="13.89" length="100.00" shape="101.60,3.20 101.60,96.80"/>
+    </edge>
+    <edge id="boulevard_5_left" from="J25" to="J24" priority="-1">
+        <lane id="boulevard_5_left_0" index="0" speed="13.89" length="100.00" shape="7.20,98.40 96.80,98.40"/>
+    </edge>
+    <edge id="boulevard_5_right" from="J24" to="J25" priority="-1">
+        <lane id="boulevard_5_right_0" index="0" speed="13.89" length="100.00" shape="96.80,101.60 7.20,101.60"/>
+    </edge>
+    <edge id="boulevard_6_left" from="J26" to="J25" priority="-1">
+        <lane id="boulevard_6_left_0" index="0" speed="13.89" length="100.00" shape="-92.80,98.40 -7.20,98.40"/>
+    </edge>
+    <edge id="boulevard_6_right" from="J25" to="J26" priority="-1">
+        <lane id="boulevard_6_right_0" index="0" speed="13.89" length="100.00" shape="-7.20,101.60 -92.80,101.60"/>
+    </edge>
+    <edge id="boulevard_7_left" from="J27" to="J26" priority="-1">
+        <lane id="boulevard_7_left_0" index="0" speed="13.89" length="100.00" shape="-196.80,98.40 -107.20,98.40"/>
+    </edge>
+    <edge id="boulevard_7_right" from="J26" to="J27" priority="-1">
+        <lane id="boulevard_7_right_0" index="0" speed="13.89" length="100.00" shape="-107.20,101.60 -196.80,101.60"/>
+    </edge>
+    <edge id="boulevard_8_left" from="J0" to="J27" priority="-1">
+        <lane id="boulevard_8_left_0" index="0" speed="13.89" length="100.00" shape="-198.40,7.20 -198.40,96.80"/>
+    </edge>
+    <edge id="boulevard_8_right" from="J27" to="J0" priority="-1">
+        <lane id="boulevard_8_right_0" index="0" speed="13.89" length="100.00" shape="-201.60,96.80 -201.60,7.20"/>
+    </edge>
+    <edge id="start_left" from="J0" to="J3" priority="-1">
+        <lane id="start_left_0" index="0" speed="13.89" length="100.00" shape="-207.20,1.60 -300.00,1.60"/>
+    </edge>
+    <edge id="start_right" from="J3" to="J0" priority="-1">
+        <lane id="start_right_0" index="0" speed="13.89" length="100.00" shape="-300.00,-1.60 -207.20,-1.60"/>
+    </edge>
+    <edge id="via_giuseppe_mazzini_left" from="J25" to="J2" priority="-1">
+        <lane id="via_giuseppe_mazzini_left_0" index="0" speed="13.89" length="100.00" shape="-1.60,92.80 -1.60,7.20"/>
+    </edge>
+    <edge id="via_giuseppe_mazzini_right" from="J2" to="J25" priority="-1">
+        <lane id="via_giuseppe_mazzini_right_0" index="0" speed="13.89" length="100.00" shape="1.60,7.20 1.60,92.80"/>
+    </edge>
+    <edge id="via_monfalcone_left" from="J26" to="J1" priority="-1">
+        <lane id="via_monfalcone_left_0" index="0" speed="13.89" length="100.00" shape="-101.60,92.80 -101.60,7.20"/>
+    </edge>
+    <edge id="via_monfalcone_right" from="J1" to="J26" priority="-1">
+        <lane id="via_monfalcone_right_0" index="0" speed="13.89" length="100.00" shape="-98.40,7.20 -98.40,92.80"/>
+    </edge>
+
+    <junction id="J0" type="priority" x="-200.00" y="0.00" incLanes="boulevard_8_right_0 boulevard_1_left_0 start_right_0" intLanes="" shape="-203.20,7.20 -196.80,7.20 -196.36,4.98 -195.80,4.20 -195.02,3.64 -194.02,3.31 -192.80,3.20 -192.80,-3.20 -207.20,-3.20 -207.20,3.20 -204.98,3.64 -204.20,4.20 -203.64,4.98 -203.31,5.98">
+        <request index="0" response="00" foes="00"/>
+        <request index="1" response="00" foes="00"/>
+    </junction>
+    <junction id="J1" type="priority" x="-100.00" y="0.00" incLanes="via_monfalcone_left_0 boulevard_2_left_0 boulevard_1_right_0" intLanes="" shape="-103.20,7.20 -96.80,7.20 -96.36,4.98 -95.80,4.20 -95.02,3.64 -94.02,3.31 -92.80,3.20 -92.80,-3.20 -107.20,-3.20 -107.20,3.20 -104.98,3.64 -104.20,4.20 -103.64,4.98 -103.31,5.98">
+        <request index="0" response="001000" foes="001000"/>
+        <request index="1" response="111000" foes="111000"/>
+        <request index="2" response="000000" foes="100000"/>
+        <request index="3" response="000000" foes="100011"/>
+        <request index="4" response="000000" foes="000010"/>
+        <request index="5" response="001100" foes="001110"/>
+    </junction>
+    <junction id="J2" type="priority" x="0.00" y="0.00" incLanes="via_giuseppe_mazzini_left_0 boulevard_3_left_0 boulevard_2_right_0" intLanes="" shape="-3.20,7.20 3.20,7.20 3.64,4.98 4.20,4.20 4.98,3.64 5.98,3.31 7.20,3.20 7.20,-3.20 -7.20,-3.20 -7.20,3.20 -4.98,3.64 -4.20,4.20 -3.64,4.98 -3.31,5.98">
+        <request index="0" response="001000" foes="001000"/>
+        <request index="1" response="111000" foes="111000"/>
+        <request index="2" response="000000" foes="100000"/>
+        <request index="3" response="000000" foes="100011"/>
+        <request index="4" response="000000" foes="000010"/>
+        <request index="5" response="001100" foes="001110"/>
+    </junction>
+    <junction id="J23" type="priority" x="100.00" y="0.00" incLanes="boulevard_4_left_0 boulevard_3_right_0" intLanes="" shape="96.80,3.20 103.20,3.20 102.49,-0.36 101.60,-1.60 100.36,-2.49 98.76,-3.02 96.80,-3.20">
+        <request index="0" response="0" foes="0"/>
+    </junction>
+    <junction id="J24" type="priority" x="100.00" y="100.00" incLanes="boulevard_4_right_0 boulevard_5_left_0" intLanes="" shape="103.20,96.80 96.80,96.80 96.80,103.20 100.36,102.49 101.60,101.60 102.49,100.36 103.02,98.76">
+        <request index="0" response="00" foes="00"/>
+        <request index="1" response="00" foes="00"/>
+    </junction>
+    <junction id="J25" type="priority" x="0.00" y="100.00" incLanes="boulevard_5_right_0 via_giuseppe_mazzini_right_0 boulevard_6_left_0" intLanes="" shape="7.20,103.20 7.20,96.80 4.98,96.36 4.20,95.80 3.64,95.02 3.31,94.02 3.20,92.80 -3.20,92.80 -3.64,95.02 -4.20,95.80 -4.98,96.36 -5.98,96.69 -7.20,96.80 -7.20,103.20">
+        <request index="0" response="00" foes="00"/>
+        <request index="1" response="00" foes="00"/>
+    </junction>
+    <junction id="J26" type="priority" x="-100.00" y="100.00" incLanes="boulevard_6_right_0 via_monfalcone_right_0 boulevard_7_left_0" intLanes="" shape="-92.80,103.20 -92.80,96.80 -95.02,96.36 -95.80,95.80 -96.36,95.02 -96.69,94.02 -96.80,92.80 -103.20,92.80 -103.64,95.02 -104.20,95.80 -104.98,96.36 -105.98,96.69 -107.20,96.80 -107.20,103.20">
+        <request index="0" response="000000" foes="001000"/>
+        <request index="1" response="110000" foes="111000"/>
+        <request index="2" response="100000" foes="100000"/>
+        <request index="3" response="100011" foes="100011"/>
+        <request index="4" response="000000" foes="000010"/>
+        <request index="5" response="000000" foes="001110"/>
+    </junction>
+    <junction id="J27" type="priority" x="-200.00" y="100.00" incLanes="boulevard_7_right_0 boulevard_8_left_0" intLanes="" shape="-196.80,103.20 -196.80,96.80 -203.20,96.80 -202.49,100.36 -201.60,101.60 -200.36,102.49 -198.76,103.02">
+        <request index="0" response="00" foes="00"/>
+        <request index="1" response="00" foes="00"/>
+    </junction>
+    <junction id="J3" type="dead_end" x="-300.00" y="0.00" incLanes="start_left_0" intLanes="" shape="-300.00,0.00 -300.00,3.20 -300.00,0.00"/>
+
+    <connection from="boulevard_1_right" to="boulevard_2_right" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="boulevard_1_right" to="via_monfalcone_right" fromLane="0" toLane="0" dir="l" state="m"/>
+    <connection from="boulevard_2_left" to="via_monfalcone_right" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from="boulevard_2_left" to="boulevard_1_left" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="boulevard_2_right" to="boulevard_3_right" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="boulevard_2_right" to="via_giuseppe_mazzini_right" fromLane="0" toLane="0" dir="l" state="m"/>
+    <connection from="boulevard_3_left" to="via_giuseppe_mazzini_right" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from="boulevard_3_left" to="boulevard_2_left" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="boulevard_3_right" to="boulevard_4_right" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="boulevard_4_right" to="boulevard_5_right" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="boulevard_5_left" to="boulevard_4_left" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from="boulevard_6_right" to="boulevard_7_right" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="boulevard_6_right" to="via_monfalcone_left" fromLane="0" toLane="0" dir="l" state="m"/>
+    <connection from="boulevard_7_left" to="via_monfalcone_left" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from="boulevard_7_left" to="boulevard_6_left" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="boulevard_7_right" to="boulevard_8_right" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="boulevard_8_left" to="boulevard_7_left" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from="start_right" to="boulevard_1_right" fromLane="0" toLane="0" dir="s" state="M"/>
+    <connection from="start_right" to="boulevard_8_left" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="via_giuseppe_mazzini_left" to="boulevard_2_left" fromLane="0" toLane="0" dir="r" state="m"/>
+    <connection from="via_giuseppe_mazzini_left" to="boulevard_3_right" fromLane="0" toLane="0" dir="l" state="m"/>
+    <connection from="via_giuseppe_mazzini_right" to="boulevard_5_left" fromLane="0" toLane="0" dir="r" state="M"/>
+    <connection from="via_giuseppe_mazzini_right" to="boulevard_6_right" fromLane="0" toLane="0" dir="l" state="M"/>
+    <connection from="via_monfalcone_left" to="boulevard_1_left" fromLane="0" toLane="0" dir="r" state="m"/>
+    <connection from="via_monfalcone_left" to="boulevard_2_right" fromLane="0" toLane="0" dir="l" state="m"/>
+    <connection from="via_monfalcone_right" to="boulevard_6_left" fromLane="0" toLane="0" dir="r" state="m"/>
+    <connection from="via_monfalcone_right" to="boulevard_7_right" fromLane="0" toLane="0" dir="l" state="m"/>
+
+</net>

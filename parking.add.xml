@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-04 17:27:23 by Eclipse SUMO netedit Version 1.19.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+
+	<parkingArea id="parking_area_1" lane="boulevard_1_right_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_2" lane="boulevard_1_right_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_3" lane="boulevard_1_right_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_4" lane="boulevard_1_right_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_5" lane="boulevard_1_right_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_6" lane="boulevard_1_right_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_7" lane="boulevard_1_right_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_8" lane="boulevard_1_right_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_9" lane="boulevard_1_right_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_10" lane="boulevard_1_right_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_11" lane="boulevard_2_right_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_12" lane="boulevard_2_right_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_13" lane="boulevard_2_right_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_14" lane="boulevard_2_right_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_15" lane="boulevard_2_right_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_16" lane="boulevard_2_right_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_17" lane="boulevard_2_right_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_18" lane="boulevard_2_right_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_19" lane="boulevard_2_right_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_20" lane="boulevard_2_right_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_21" lane="boulevard_3_right_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_22" lane="boulevard_3_right_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_23" lane="boulevard_3_right_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_24" lane="boulevard_3_right_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_25" lane="boulevard_3_right_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_26" lane="boulevard_3_right_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_27" lane="boulevard_3_right_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_28" lane="boulevard_3_right_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_29" lane="boulevard_3_right_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_30" lane="boulevard_3_right_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_31" lane="boulevard_4_right_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_32" lane="boulevard_4_right_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_33" lane="boulevard_4_right_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_34" lane="boulevard_4_right_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_35" lane="boulevard_4_right_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_36" lane="boulevard_4_right_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_37" lane="boulevard_4_right_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_38" lane="boulevard_4_right_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_39" lane="boulevard_4_right_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_40" lane="boulevard_4_right_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_41" lane="boulevard_5_right_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_42" lane="boulevard_5_right_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_43" lane="boulevard_5_right_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_44" lane="boulevard_5_right_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_45" lane="boulevard_5_right_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_46" lane="boulevard_5_right_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_47" lane="boulevard_5_right_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_48" lane="boulevard_5_right_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_49" lane="boulevard_5_right_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_50" lane="boulevard_5_right_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_51" lane="boulevard_6_right_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_52" lane="boulevard_6_right_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_53" lane="boulevard_6_right_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_54" lane="boulevard_6_right_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_55" lane="boulevard_6_right_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_56" lane="boulevard_6_right_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_57" lane="boulevard_6_right_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_58" lane="boulevard_6_right_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_59" lane="boulevard_6_right_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_60" lane="boulevard_6_right_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_61" lane="boulevard_7_right_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_62" lane="boulevard_7_right_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_63" lane="boulevard_7_right_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_64" lane="boulevard_7_right_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_65" lane="boulevard_7_right_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_66" lane="boulevard_7_right_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_67" lane="boulevard_7_right_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_68" lane="boulevard_7_right_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_69" lane="boulevard_7_right_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_70" lane="boulevard_7_right_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_71" lane="boulevard_8_right_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_72" lane="boulevard_8_right_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_73" lane="boulevard_8_right_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_74" lane="boulevard_8_right_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_75" lane="boulevard_8_right_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_76" lane="boulevard_8_right_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_77" lane="boulevard_8_right_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_78" lane="boulevard_8_right_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_79" lane="boulevard_8_right_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_80" lane="boulevard_8_right_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_81" lane="boulevard_1_left_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_82" lane="boulevard_1_left_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_83" lane="boulevard_1_left_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_84" lane="boulevard_1_left_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_85" lane="boulevard_1_left_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_86" lane="boulevard_1_left_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_87" lane="boulevard_1_left_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_88" lane="boulevard_1_left_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_89" lane="boulevard_1_left_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_90" lane="boulevard_1_left_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_91" lane="boulevard_2_left_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_92" lane="boulevard_2_left_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_93" lane="boulevard_2_left_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_94" lane="boulevard_2_left_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_95" lane="boulevard_2_left_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_96" lane="boulevard_2_left_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_97" lane="boulevard_2_left_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_98" lane="boulevard_2_left_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_99" lane="boulevard_2_left_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_100" lane="boulevard_2_left_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_101" lane="boulevard_3_left_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_102" lane="boulevard_3_left_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_103" lane="boulevard_3_left_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_104" lane="boulevard_3_left_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_105" lane="boulevard_3_left_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_106" lane="boulevard_3_left_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_107" lane="boulevard_3_left_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_108" lane="boulevard_3_left_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_109" lane="boulevard_3_left_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_110" lane="boulevard_3_left_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_111" lane="boulevard_4_left_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_112" lane="boulevard_4_left_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_113" lane="boulevard_4_left_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_114" lane="boulevard_4_left_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_115" lane="boulevard_4_left_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_116" lane="boulevard_4_left_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_117" lane="boulevard_4_left_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_118" lane="boulevard_4_left_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_119" lane="boulevard_4_left_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_120" lane="boulevard_4_left_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_121" lane="boulevard_5_left_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_122" lane="boulevard_5_left_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_123" lane="boulevard_5_left_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_124" lane="boulevard_5_left_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_125" lane="boulevard_5_left_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_126" lane="boulevard_5_left_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_127" lane="boulevard_5_left_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_128" lane="boulevard_5_left_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_129" lane="boulevard_5_left_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_130" lane="boulevard_5_left_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_131" lane="boulevard_6_left_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_132" lane="boulevard_6_left_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_133" lane="boulevard_6_left_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_134" lane="boulevard_6_left_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_135" lane="boulevard_6_left_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_136" lane="boulevard_6_left_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_137" lane="boulevard_6_left_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_138" lane="boulevard_6_left_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_139" lane="boulevard_6_left_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_140" lane="boulevard_6_left_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_141" lane="boulevard_7_left_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_142" lane="boulevard_7_left_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_143" lane="boulevard_7_left_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_144" lane="boulevard_7_left_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_145" lane="boulevard_7_left_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_146" lane="boulevard_7_left_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_147" lane="boulevard_7_left_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_148" lane="boulevard_7_left_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_149" lane="boulevard_7_left_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_150" lane="boulevard_7_left_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_151" lane="boulevard_8_left_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_152" lane="boulevard_8_left_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_153" lane="boulevard_8_left_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_154" lane="boulevard_8_left_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_155" lane="boulevard_8_left_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_156" lane="boulevard_8_left_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_157" lane="boulevard_8_left_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_158" lane="boulevard_8_left_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_159" lane="boulevard_8_left_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_160" lane="boulevard_8_left_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_161" lane="via_monfalcone_left_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_162" lane="via_monfalcone_left_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_163" lane="via_monfalcone_left_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_164" lane="via_monfalcone_left_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_165" lane="via_monfalcone_left_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_166" lane="via_monfalcone_left_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_167" lane="via_monfalcone_left_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_168" lane="via_monfalcone_left_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_169" lane="via_monfalcone_left_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_170" lane="via_monfalcone_left_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_171" lane="via_monfalcone_right_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_172" lane="via_monfalcone_right_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_173" lane="via_monfalcone_right_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_174" lane="via_monfalcone_right_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_175" lane="via_monfalcone_right_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_176" lane="via_monfalcone_right_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_177" lane="via_monfalcone_right_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_178" lane="via_monfalcone_right_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_179" lane="via_monfalcone_right_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_180" lane="via_monfalcone_right_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_181" lane="via_giuseppe_mazzini_left_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_182" lane="via_giuseppe_mazzini_left_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_183" lane="via_giuseppe_mazzini_left_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_184" lane="via_giuseppe_mazzini_left_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_185" lane="via_giuseppe_mazzini_left_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_186" lane="via_giuseppe_mazzini_left_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_187" lane="via_giuseppe_mazzini_left_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_188" lane="via_giuseppe_mazzini_left_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_189" lane="via_giuseppe_mazzini_left_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_190" lane="via_giuseppe_mazzini_left_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+	
+	<parkingArea id="parking_area_191" lane="via_giuseppe_mazzini_right_0" startPos="0" endPos="5" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_192" lane="via_giuseppe_mazzini_right_0" startPos="10" endPos="15" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_193" lane="via_giuseppe_mazzini_right_0" startPos="20" endPos="25" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_194" lane="via_giuseppe_mazzini_right_0" startPos="30" endPos="35" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_195" lane="via_giuseppe_mazzini_right_0" startPos="40" endPos="45" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_196" lane="via_giuseppe_mazzini_right_0" startPos="50" endPos="55" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_197" lane="via_giuseppe_mazzini_right_0" startPos="60" endPos="65" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_198" lane="via_giuseppe_mazzini_right_0" startPos="70" endPos="75" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_199" lane="via_giuseppe_mazzini_right_0" startPos="80" endPos="85" roadsideCapacity="1"/>
+	<parkingArea id="parking_area_200" lane="via_giuseppe_mazzini_right_0" startPos="90" endPos="95" roadsideCapacity="1"/>
+</additional>
